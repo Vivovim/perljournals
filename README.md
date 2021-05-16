@@ -1,7 +1,7 @@
 # perljournals
 Perl Journals that use VIM
 
-Requires MySQL database server. 
+Requires MySQL database server. Uses perl DBI, and DBD::MySQL, also requires VIM.
 
 Replace the username, password, hostname, and database to your local settings. Then everything should just work.
 
