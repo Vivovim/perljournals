@@ -1,6 +1,6 @@
 #!/usr/bin/perl 
 ## Sun Jun  7 11:27:13 PDT 2009
-## Christopher ctopher@mac.com
+## Christopher neo@ctopher.me
 ## Re-Wrote This Code on Fri September 16, 2011 @ 20:02:35
 ## should be Faster and Lightweight.
 ## Bored Stupid!!

@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 ## Thu Feb 12 14:02:10 PST 2009
-## Christopher ctopher@mac.com
+## Christopher neo@ctopher.me
 
 use strict;
 use Time::Local;
