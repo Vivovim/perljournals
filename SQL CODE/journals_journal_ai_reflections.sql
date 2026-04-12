@@ -35,7 +35,7 @@ CREATE TABLE `journal_ai_reflections` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `uniq_entry_prompt` (`journal_recid`,`prompt_version`),
   KEY `idx_recid` (`journal_recid`)
-) ENGINE=InnoDB AUTO_INCREMENT=43 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 SET @@SESSION.SQL_LOG_BIN = @MYSQLDUMP_TEMP_LOG_BIN;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
